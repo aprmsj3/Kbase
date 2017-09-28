@@ -69,4 +69,4 @@ json-lib-2.4-jdk15
 mvc2 패턴을 적용하여 기능들을 구현해보자!
 
 spring security 분석
-1. security_ver0.1 버전 :  스프링 시큐리티에서 제공하는 기본 
+1. security_ver0.1 버전 :  스프링 시큐리티에서 제공하는 기본 기능
